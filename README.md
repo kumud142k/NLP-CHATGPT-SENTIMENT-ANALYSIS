@@ -4,4 +4,6 @@ Tweets related to CHATGPT from 22nd January to 24th January were analysed uisng 
 
 The trends showed that the sentiments are more towards the neutrality of CHATGPT launch. 
 
-# More than 50% tweets were neutral. 
+More than 50% tweets were neutral. 
+
+datalink: https://www.kaggle.com/code/ramanjaneyuluc/chatgpt-twitter-dataset/input
